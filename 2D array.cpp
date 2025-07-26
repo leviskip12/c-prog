@@ -6,8 +6,6 @@ Date 20-07/2025*/
 
 #include <iostream>
 using namespace std;
-#include <iostream>
-using namespace std;
 //main 
 int main() {
 	//initializing
